@@ -1,7 +1,6 @@
-# Mi App
-# Mi App 🌐
+# Mi Primer Proyecto 🌐
 
-Mi primera página web creada desde Termux y publicada con GitHub Pages.
+Este fue mi primer proyecto usando Git y GitHub.
 
 ## Tecnologías usadas
 
@@ -9,22 +8,19 @@ Mi primera página web creada desde Termux y publicada con GitHub Pages.
 - CSS
 - JavaScript
 - Git
-- GitHub Pages
+- GitHub
 
-## Funciones
+## Archivos del proyecto
 
-- Página web básica
-- Diseño con CSS
-- Interacción con JavaScript
-- Formulario sencillo
+- `index.html` → estructura de la página
+- `style.css` → estilos del diseño
+- `script.js` → funciones e interacción
+- `app.txt` → archivo de práctica
 
-## Vista preva
+## Objetivo
 
-![Mi página](captura.png)
-
-Puedes ver la página aquí:
-
-https://mirivel.github.io/mi-app/
+Aprender el flujo básico de desarrollo:
+crear archivos, guardar cambios con Git y subir proyectos a GitHub.
 
 ## Autor
 
