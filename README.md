@@ -18,7 +18,9 @@ Mi primera página web creada desde Termux y publicada con GitHub Pages.
 - Interacción con JavaScript
 - Formulario sencillo
 
-## Vista previa
+## Vista preva
+
+![Mi página](captura.png)
 
 Puedes ver la página aquí:
 
