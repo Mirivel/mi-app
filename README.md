@@ -1,6 +1,6 @@
-# Mi Primer Proyecto 🌐
+# Nuevo Repositorio 🌐
 
-Este fue mi primer proyecto usando Git y GitHub.
+Proyecto de práctica para aprender desarrollo web y el uso de GitHub.
 
 ## Tecnologías usadas
 
@@ -13,14 +13,16 @@ Este fue mi primer proyecto usando Git y GitHub.
 ## Archivos del proyecto
 
 - `index.html` → estructura de la página
-- `style.css` → estilos del diseño
-- `script.js` → funciones e interacción
+- `style.css` → diseño y estilos
+- `script.js` → interacción con JavaScript
 - `app.txt` → archivo de práctica
 
-## Objetivo
+## Aprendizajes
 
-Aprender el flujo básico de desarrollo:
-crear archivos, guardar cambios con Git y subir proyectos a GitHub.
+- Crear y organizar un proyecto web
+- Guardar cambios con Git
+- Subir proyectos a GitHub
+- Trabajar con repositorios
 
 ## Autor
 
